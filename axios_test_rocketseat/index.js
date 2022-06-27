@@ -12,3 +12,6 @@ function getUser(){
 }
 
 getUser()
+
+// Como renderizar um componente que não está referenciado?
+// No caso o renderResults
